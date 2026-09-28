@@ -1,0 +1,12 @@
+streamlit
+python-dotenv
+langchain-core
+langchain-community
+langchain-groq
+langchain-google-genai
+pandas
+numpy
+xgboost
+shap
+scikit-learn
+matplotlib

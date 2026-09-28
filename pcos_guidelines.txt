@@ -1,0 +1,6 @@
+# Clinical Guidelines for PCOS Blood Biomarkers
+1. Luteinizing Hormone (LH) and Follicle-Stimulating Hormone (FSH): A healthy ratio is typically 1:1. In PCOS, LH is often elevated. An LH:FSH ratio greater than 2:1 or 3:1 is strongly suggestive of disrupted ovulation typical of PCOS.
+2. Total Testosterone: Normal reference range for adult women is roughly 15 to 70 ng/dL. Levels above 70 ng/dL suggest hyperandrogenism (excess androgens), which is a core diagnostic criterion for PCOS.
+3. Anti-Mullerian Hormone (AMH): Normal levels are 1.0 to 3.5 ng/mL. Levels elevated above 3.5 to 5.0 ng/mL often indicate polycystic ovarian morphology due to an excess of small follicles.
+4. Fasting Insulin: Healthy optimal levels are below 10 mU/L. Levels above 10 to 15 mU/L indicate insulin resistance, a condition present in up to 70% of PCOS patients.
+5. Clinical Note: Diagnosis requires corroboration of clinical symptoms (e.g., irregular menstrual cycles, hirsutism, acne) alongside biochemical markers. A single blood test does not definitively diagnose PCOS without clinical context.

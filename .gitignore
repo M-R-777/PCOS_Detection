@@ -1,0 +1,5 @@
+.env
+chroma_pcos_db/
+__pycache__/
+venv/
+.venv/
